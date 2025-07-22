@@ -4,6 +4,7 @@
 
 </div>
 
+<!--
 <div align="center">
 
 ## 📖 My History
@@ -18,75 +19,83 @@
 | 2024-12-02~ 2025-08-31| Modern Agile (9term)          | Front End Leader |
 | 2025-06-23~ NOW       | Mavericks in Motion           | App Developer    |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryu-02&show_icons=true&theme=synthwave)
-![trophy](https://github-profile-trophy.vercel.app/?username=Ryu-02&theme=dracula)
 </div>
+-->
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryu-02&show_icons=true&theme=synthwave)  
+![trophy](https://github-profile-trophy.vercel.app/?username=Ryu-02&theme=dracula)
+
+</div>
+
 
 ---
 
 ## 🌟 주요 정보
 - 👉 [Ryu-02’s Portfolio](https://your-notion-link-here)
-- **학력:** 성신여자대학교 (법학과 학사), 인덕대학교 (컴퓨터 소프트웨어 전공, 3학년)
-- **MBTI:** ENFJ | **혈액형:** B
-- **사용 언어:** 한국어 (모국어), 영어 (TOEIC Speaking AL 160), 일본어 (JLPT N1)
-- **취미:** 러닝, 문학 읽기, 재즈 감상
+- **학력:** 인덕대학교 (컴퓨터 소프트웨어 전공, 3학년)
+- **MBTI:** ESFP | **혈액형:** B
+- **사용 언어:** 한국어 (모국어)
+- **취미:** 러닝, 운동
+- **좌우명:** 하면 된다
 
 ---
 
-## 🔨 기술 스택
+## 🛠️ Tech Stack
 
-## 📌 Tech Stack
+### 💻 Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🖥️ Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### 🛢️ Database  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### 🚀 Deployment  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+### 🚀 DevOps & Infra  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
-### 🎨 Design & Convention  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+### 📚 API & Docs  
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### ⚙️ Tools  
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
 
 </div>
 
 ---
 
 ### 대표 프로젝트
-- 🛒 **강아지 의류 쇼핑몰:** PHP, MySQL, Bootstrap으로 개발
-- 🐾 **펫 커뮤니티 사이트:** Node.js와 MongoDB를 사용해 제작
-- 📱 **iOS 필기 앱:** Swift를 활용해 제작
-- 🖥️ **채용 웹사이트:** Coupang Fulfillment Services 인턴십에서 기여
-- 🚀 **MUI 마이그레이션:** Edutech 스타트업에서 마이그레이션 프로젝트
+- 🛒 **의류 쇼핑몰:** PHP, MySQL, Bootstrap으로 개발
+- 🐾 **동아리 커무니티 웹사이트:** Nest, PostgreSQL으로 개발
 
 ---
 
 ## 🎓 경험
 
-### 인턴십
-1. **쿠팡풀필먼트서비스** (2023): 채용 웹사이트의 정적 영역 작업
-2. **엘리스** (2024): Material UI(React)로 레거시 시스템 마이그레이션 프로젝트
-
 ### 리더십 역할
-- 성신여자대학교 창업동아리 타비 개발팀장
-- 인덕대학교 소프트웨어 스터디그룹 솝솝 팀장
-- 인덕대학교 소프트웨어 개발동아리 모던애자일 9기 프론트엔드 팀장
+- 인덕대학교 소프트웨어 개발동아리 모던애자일 9기 백엔드 팀장
 
 ---
 
 ## 🎯 커리어 목표
 
-법학적 배경과 기술적 전문성을 결합하여 현실 문제를 해결할 수 있는 사용자 중심 솔루션을 개발하는 것을 목표로 하고 있습니다. 변화하는 기술 환경에서 적응하고 혁신하려는 호기심과 배움에 대한 열정이 저의 원동력입니다.
+다양한 직군과의 원활한 소통을 통해 비즈니스 목표를 기술로 구현하는 개발자가 되고자 합니다. 문제 해결 능력뿐만 아니라, 팀워크와 기술 문서화 능력까지 갖춘 백엔드 엔지니어로 성장하는 것이 목표입니다.
 
 ---
 
@@ -101,9 +110,6 @@
 </a>
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ryu-02)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryu-02)
-[![Blog Badge](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=notion&logoColor=white)](https://medium.com/@ryu-02)
-[![Email Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ryu02.dev@gmail.com)
 </div>
 
 <br>
