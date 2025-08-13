@@ -82,7 +82,7 @@
 
 ### 대표 프로젝트
 - 🛒 **의류 쇼핑몰:** PHP, MySQL, Bootstrap으로 개발
-- 🐾 **동아리 커무니티 웹사이트:** Nest, PostgreSQL으로 개발
+- 🐾 **동아리 커뮤니티 웹사이트:** Nest, PostgreSQL으로 개발
 
 ---
 
